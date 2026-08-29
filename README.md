@@ -16,4 +16,4 @@ This project is a **simple rule-based chatbot** built in Python. It responds to 
 ## 🚀 Installation & Usage
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/rule-based-chatbot.git
+   git clone https://github.com/ambershahid/rule-based-chatbot.git
